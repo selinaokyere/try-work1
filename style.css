@@ -1,0 +1,100 @@
+#first_background{
+    background-image: url("./image1.jpg");
+    height: 800px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 270px;
+    padding-bottom: 50px;
+    padding-right: 500px;
+    padding-left: 400px;
+
+
+}
+h1{
+    
+    background-color: black;
+    color: white;
+   padding: 10px 40px;
+   text-align: center;
+}
+#first_container{
+    text-align: center;
+    background-color: #f4f4f4;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: large;
+}
+#second_background{
+    background-image: url(./image2.jpg);
+    height: 200px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    padding-right: 500px;
+    padding-left: 500px
+}
+
+#second_background p{
+    color: white;
+    font-size: xx-large;
+}
+#third_container{
+    text-align: center;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size:large;
+}
+#third_background{
+    background-image: url(./image3.jpg);
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    padding-right: 400px;
+    padding-left: 400px
+}
+#third_background{
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+#last_container{
+    text-align: center;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size:large;
+}
+#last_background{
+    background-image: url(./image1.jpg);
+    height: 200px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    padding-right: 500px;
+    padding-left: 500px
+}
+#media{
+    background-color: black;
+    color: white;
+   padding: 10px 40px;
+   text-align: center;
+}
+
